@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Amitis Organic Restaurant Online
   subtitle: Amitis Organic Restaurant's Digital Transformation
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/amitis-hall-4x3.png
 
 #what displays when the item is clicked:
 title: Amitis Organic Restaurant Online
 subtitle: Amitis Organic Restaurant's Digital Transformation
-image: https://place-hold.it/400x300
+image: assets/img/portfolio/amitis-hall-4x3.png
 alt: Amitis Organic Restaurant's Digital Transformation
 
 ---

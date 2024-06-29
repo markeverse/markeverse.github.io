@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Hectare Schools Digital Platform 
   subtitle: Nationwide Hectare Schools Digital Platform Initiative
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/andishe-borna-4x3.png
   
 #what displays when the item is clicked:
 title: Hectare Schools Digital Platform 
 subtitle: Nationwide Hectare Schools Digital Platform Initiative
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/andishe-borna-4x3.png
 alt: Nationwide Hectare Schools Digital Platform Initiative
 
 ---

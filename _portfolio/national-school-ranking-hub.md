@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: National School Ranking Hub
   subtitle: Launch of the First Nationwide School Evaluation and Ranking Hub
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/school-eval-hub-4x3.png
 
 #what displays when the item is clicked:
 title: National School Ranking Hub
 subtitle: Launch of the First Nationwide School Evaluation and Ranking Hub
-image: https://place-hold.it/400x300
+image: assets/img/portfolio/school-eval-hub-4x3.png
 alt: Launch of the First Nationwide School Evaluation and Ranking Hub
 
 ---
