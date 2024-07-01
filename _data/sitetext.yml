@@ -16,9 +16,15 @@ en: &DEFAULT_EN
     button: Our Services
     buttonlink: "#services"
 
+  about:
+    title: "About Us"
+    text: "Make The Pie Bigger!"
+    body: "Creating more opportunities and greater value for everyone by growing the whole pie."
+    section: about
+
   services:
     title: "Services"
-    text: "Creating more opportunities and greater value for everyone by growing the whole pie."
+    text: "We Don't Just Sell Products; Your Business is Unique, and So Are Our Solutions - Designed Specifically for You."
     section: services
     list:
       - title: "Brand Design"

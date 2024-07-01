@@ -11,11 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "About"
+      section: "about"
     - title: "Services"
       section: services
     - title: "Portfolio"
       section: portfolio
     - title: "Contact"
       section: contact
+    - title: "Positions"
+      url: /careers
 en-US:
   <<: *DEFAULT_EN

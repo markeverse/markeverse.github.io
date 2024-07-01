@@ -48,14 +48,16 @@
   <!-- Header -->
   {% if site.locale and site.locale != "" and site.locale != nil %}
   <header class="masthead">
+
+    <div class="video-container">
+      <video muted autoplay loop poster="assets/img/markeverse-poster.jpg" style="width:100%">
+          <source id="mp4" src="assets/vid/header.mp4" type="video/mp4">
+          <source id="webm" src="assets/vid/header.webm" type="video/webm">
+          <p>Your user agent does not support the HTML5 Video element.</p>
+        </video>
+    </div>
     <div class="container">
       <div class="intro-text">
-	  {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
-	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
 	  {%- endif -%}
