@@ -17,7 +17,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Markeverse | Make The Pie Bigger!
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : support@markeverse.com #this is also the email contact forms will go to
 description: "Creating more opportunities and greater value for everyone by growing the whole pie"
 author     : Markeverse Team
 # logo:     #optional, defaults to site title
