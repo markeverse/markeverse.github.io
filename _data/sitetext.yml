@@ -37,6 +37,12 @@ en: &DEFAULT_EN
         desc: "Your website is your digital storefront, and at Markeverse Media, we make sure it's exceptional. Our website development services include UI/UX design, platform-based development, and e-commerce solutions, all designed to improve user experience and boost engagement."
         icon: fas fa-laptop
 
+  portfolio:
+    title: "Portfolio"
+    text: "Explore our ongoing and upcoming projects, showcasing the exciting ventures we're dedicated to."
+    section: portfolio
+    closebutton: "Close Project"
+
   contact:
     title: "Contact Us"
     text: ""
