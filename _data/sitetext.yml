@@ -42,6 +42,16 @@ en: &DEFAULT_EN
     text: "Explore our ongoing and upcoming projects, showcasing the exciting ventures we're dedicated to."
     section: portfolio
     closebutton: "Close Project"
+  
+  join:
+    title: "Join Us"
+    text: ""
+    body: "At Markeverse we are going to make the pie bigger, for everyone!! You can be a part of it!\n
+
+            If you are dreaming about making your own team, and your skilled in leading people but you have no chance in your current company or career to be a leader, here is your opportunity!\n"
+    section: join
+    button: Careers
+    buttonlink: /careers/
 
   contact:
     title: "Contact Us"
