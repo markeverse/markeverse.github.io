@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Make The Pie Bigger!"
-    body: "Creating more opportunities and greater value for everyone by growing the whole pie."
+    body: "At our core, we believe in making the pie bigger. Our goal is to make everything better for everyone by concentrating on expanding opportunities and producing more value. Our goal is to increase the size of the pie as a whole, not only divide the available resources. More creativity, improved teamwork, and long-term success are all resulting from this. Come along on this journey with us towards a future where everyone can succeed."
     section: about
 
   services:
@@ -28,18 +28,24 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Brand Design"
-        desc: "We transform concepts Into Visua masterpieces, specializing in brand designs that resonate deeply with your audience. Our focus is on developing a cohesive brand identity, which includes compelling marketing materials and vibrant social media graphics, all tailored to enhance your brand's appeal and forge strong customer connections."
+        desc: "We convert concepts into visual masterpieces, specializing in brand designs that profoundly resonate with your audience. Our expertise lies in developing a cohesive brand identity, encompassing compelling marketing materials and vibrant social media graphics, meticulously tailored to enhance your brand's appeal and cultivate strong customer connections."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Digital Marketing"
-        desc: "In the ever-evolving digital world, staying ahead requires being proactive. We design digital marketing strategies that keep pace with changing trends and customer expectations. Covering everything from SEO to SEM optimization and more, we offer integrated solutions that align with your business goals, ensuring a robust online presence."
+        desc: "In the fast-changing digital world, staying ahead means being proactive. We create digital marketing strategies that follow the latest trends and meet customer needs. From Search Engine Optimization to Content Creation, we provide integrated solutions that match your business goals, ensuring a strong online presence."
+        icon: fas fa-shopping-cart
+      - title: "Web Development"
+        desc: "Your website is your digital storefront, and at Markeverse Media, we make sure it's exceptional. Our website development services include UI/UX design, platform-based development, and e-commerce solutions, all designed to improve user experience and boost engagement."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portfolio"
+    text: "Explore our ongoing and upcoming projects, showcasing the exciting ventures we're dedicated to."
+    section: portfolio
+    closebutton: "Close Project"
 
   contact:
     title: "Contact Us"
-    text: "Call 09128747484"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
