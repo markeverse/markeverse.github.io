@@ -72,10 +72,10 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
+        icon: "fa-brands fa-linkedin"
       - url: https://github.com/Markeverse
-        icon: "fab fa-github"
+        icon: "fa-brands fa-github"
       - url: https://instagram.com
-        icon: "fab fa-instagram"
+        icon: "fa-brands fa-instagram"
 en-US:
   <<: *DEFAULT_EN
