@@ -27,15 +27,15 @@ en: &DEFAULT_EN
     text: "We Don't Just Sell Products; Your Business is Unique, and So Are Our Solutions - Designed Specifically for You."
     section: services
     list:
-      - title: "Brand Design"
-        desc: "We convert concepts into visual masterpieces, specializing in brand designs that profoundly resonate with your audience. Our expertise lies in developing a cohesive brand identity, encompassing compelling marketing materials and vibrant social media graphics, meticulously tailored to enhance your brand's appeal and cultivate strong customer connections."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Digital Marketing"
-        desc: "In the fast-changing digital world, staying ahead means being proactive. We create digital marketing strategies that follow the latest trends and meet customer needs. From Search Engine Optimization to Content Creation, we provide integrated solutions that match your business goals, ensuring a strong online presence."
-        icon: fas fa-shopping-cart
-      - title: "Web Development"
-        desc: "Your website is your digital storefront, and at Markeverse Media, we make sure it's exceptional. Our website development services include UI/UX design, platform-based development, and e-commerce solutions, all designed to improve user experience and boost engagement."
-        icon: fas fa-laptop
+        desc: We are dedicated to ensuring your business achieves long-lasting success by harnessing and creating market potential. If we determine that our services won't be beneficial, we won't waste your time or money.
+        icon: fa-solid fa-money-bill-trend-up
+      - title: "Software Solutions"
+        desc: "We don't just sell pieces of code. We thoroughly study your problem and design a tailored solution, which may take the form of multi-platform software."
+        icon: fa-solid fa-laptop-code
+      - title: "Data Analytics"
+        desc: "Data is a fundamental asset in decision-making. We integrate data gathered from experts and in-depth problem analysis into all our solutions, empowering you to make informed, data-driven decisions."
+        icon: fa-solid fa-magnifying-glass-chart
 
   portfolio:
     title: "Portfolio"
